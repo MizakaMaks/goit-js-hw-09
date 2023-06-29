@@ -91,3 +91,4 @@ function timerClear() {
   clearBtn.disabled = true;
   Notiflix.Notify.success('Successful cleaning!');
 }
+// 
